@@ -1,0 +1,460 @@
+# Translation of Themes - VW One Page in Russian
+# This file is distributed under the same license as the Themes - VW One Page package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-10 09:33:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - VW One Page\n"
+
+#. Theme Name of the plugin/theme
+msgid "VW One Page"
+msgstr "VW One Page"
+
+#. Description of the plugin/theme
+msgid "VW One Page is a creatively crafted, polished and eye-catching multipurpose one page WordPress theme. It is the best fit for business and corporate website, landing page, portfolio, blog, personal website, firms, enterprises, local business and many other websites for different niches of businesses. It is a responsive theme made with mobile-first approach to load perfectly on mobiles, tablets and desktops of varying sizes. It is compatible on multiple browsers and can be translated into as many as 70 different languages. This one page WordPress theme is optimized for search engines to give good traffic input to your site. With plethora of styling options of header, footer, gallery and sidebars, it promises to give your website a unique look and make it outstanding. Further, banners and sliders are provided to add beauty to it. Made from scratch, it stands firm on Bootstrap framework which makes an easy way for its usage. This one page WordPress theme gives all the power to design a website according to your specifications with its advanced customization tool. It has social media icons to make your website reach people easily. It is lightweight and compatible with third party plugins. Demo: https://www.vwthemes.net/vw-one-page-pro/"
+msgstr "VW One Page - это творчески созданная, проверенная и привлекательная многопользовательская одностраничная WordPress тема. Она лучше всего подходит для делового и корпоративного веб-сайта, целевой страницы, портфолио, блога, персонального веб-сайта, фирм, предприятий, местного бизнеса и многих других веб-сайтов для разных ниш бизнеса. Это адаптивная тема, сделанная с использованием мобильного подхода для максимально быстрой загрузки на мобильных телефонах, планшетах и ​​настольных компьютерах различного размера. Она совместим со всеми браузерами и может быть переведена на 70 языков. Эта одно страничная WordPress тема оптимизирована для поисковых систем, чтобы обеспечить хороший трафик на ваш сайт. Благодаря множеству вариантов стиля шапки, подвала, галереи и боковых панелей, она обещает дать вашему сайту уникальный вид и сделать его выдающимся. Кроме того, баннеры и слайдеры предоставят ей больше привлекательности. Сделанный с нуля, она основана на платформе Bootstrap, что делает ее простой для использования. Эта одностраничная тема WordPress предоставляет все возможности для разработки веб-сайта в соответствии с вашими спецификациями с помощью ее расширенного инструмента настройки. У нее есть значки социальных сетей, чтобы сделать ваш сайт легко доступным для пользователей. Она легкая и совместима со сторонними плагинами. Демо: https://www.vwthemes.net/vw-one-page-pro/"
+
+#. Template Name of the plugin/theme
+msgid "Page with Right Sidebar"
+msgstr "Страница с правой боковой колонкой"
+
+#. Template Name of the plugin/theme
+msgid "Page with Left Sidebar"
+msgstr "Страница с левой боковой колонкой"
+
+#. Template Name of the plugin/theme
+msgid "Custom Home"
+msgstr "Пользовательская домашняя страница"
+
+#: woocommerce/checkout/form-checkout.php:55
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr "Вы должны войти в систему для покупки."
+
+#: template-parts/single-post-layout.php:40
+msgid "Previous post:"
+msgstr "Предыдущая запись:"
+
+#: template-parts/single-post-layout.php:39
+msgid "Previous"
+msgstr "Назад"
+
+#: template-parts/single-post-layout.php:37
+msgid "Next post:"
+msgstr "Следующая запись:"
+
+#: template-parts/single-post-layout.php:36
+msgid "Next"
+msgstr "Далее"
+
+#: template-parts/single-post-layout.php:31
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Опубликовано в</span><span class=\"post-title\">%title</span>"
+
+#: template-parts/single-post-layout.php:14
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: template-parts/single-post-layout.php:14
+msgid "0 Comments"
+msgstr "0 комментариев"
+
+#: template-parts/single-post-layout.php:14
+msgid "0 Comment"
+msgstr "Нет комментариев"
+
+#: template-parts/image-layout.php:32
+msgid "Edit"
+msgstr "Изменить"
+
+#: template-parts/image-layout.php:27
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: template-parts/header/navigation.php:11
+msgid "Menu"
+msgstr "Меню"
+
+#: template-parts/content.php:27 template-parts/grid-layout.php:25
+msgid "READ MORE"
+msgstr "Подробнее"
+
+#: template-parts/content.php:27 template-parts/grid-layout.php:25
+msgid "Read More"
+msgstr "Подробнее"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "Архивы"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Найти"
+
+#. translators: %s: search term
+#: search.php:19 search.php:53 search.php:86 search.php:119 search.php:154
+#: search.php:189 search.php:225
+msgid "Results For: %s"
+msgstr "Результаты поиска: %s"
+
+#: page-template/custom-home-page.php:113
+msgid "MORE"
+msgstr "Больше"
+
+#: page-template/custom-home-page.php:40
+msgid "GET STARTED"
+msgstr "Начать работу"
+
+#: no-results.php:24
+msgid "Back to Home Page"
+msgstr "Перейти на домашнюю страницу"
+
+#: no-results.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готовы опубликовать вашу первую запись? Начните отсюда."
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/social-widgets/social-icon.php:95
+msgid "Youtube:"
+msgstr "Youtube:"
+
+#: inc/social-widgets/social-icon.php:91
+msgid "Tumblr:"
+msgstr "Tumblr:"
+
+#: inc/social-widgets/social-icon.php:87
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: inc/social-widgets/social-icon.php:83
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: inc/social-widgets/social-icon.php:79
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: inc/social-widgets/social-icon.php:75
+msgid "Google+:"
+msgstr "Google+:"
+
+#: inc/social-widgets/social-icon.php:71
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: inc/social-widgets/social-icon.php:67
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: inc/social-widgets/social-icon.php:16
+msgid "Widget for Social icons section"
+msgstr "Виджет для раздела социальных сетей"
+
+#: inc/social-widgets/social-icon.php:14
+msgid "Social Icon"
+msgstr "Иконка соц. сети"
+
+#: inc/customizer.php:261
+msgid "Upgrade Pro"
+msgstr "Обновиться до Pro"
+
+#: inc/customizer.php:176
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/customizer.php:167
+msgid "This section will appear in the footer"
+msgstr "Этот раздел появится в футере"
+
+#: inc/customizer.php:166
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#: inc/customizer.php:149
+msgid "About us"
+msgstr "О нас"
+
+#: inc/customizer.php:119
+msgid "Services"
+msgstr "services"
+
+#: inc/customizer.php:110
+msgid "Select Slide Image Page"
+msgstr "Выберите страницу слайдов"
+
+#: inc/customizer.php:98
+msgid "Show / Hide slider"
+msgstr "Показать / Скрыть слайдер"
+
+#: inc/customizer.php:87
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:60
+msgid "Add Phone Number"
+msgstr "Добавьте номер телефона"
+
+#: inc/customizer.php:50
+msgid "Topbar Settings"
+msgstr "Настройки верхней панели"
+
+#: inc/customizer.php:45
+msgid "Grid Layout"
+msgstr "Сетчатый макет"
+
+#: inc/customizer.php:44
+msgid "Four Columns"
+msgstr "Четыре колонки"
+
+#: inc/customizer.php:43
+msgid "Three Columns"
+msgstr "Три колонки"
+
+#: inc/customizer.php:42
+msgid "One Column"
+msgstr "Один столбец"
+
+#: inc/customizer.php:40
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+#: inc/customizer.php:37
+msgid "Do you want this section"
+msgstr "Вы хотите этот раздел"
+
+#: inc/customizer.php:32 inc/customizer.php:41
+msgid "Right Sidebar"
+msgstr "Правая колонка"
+
+#: inc/customizer.php:25
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: inc/customizer.php:21
+msgid "Description of what this panel does."
+msgstr "Описание того, что делает эта панель."
+
+#: inc/customizer.php:20
+msgid "VW Settings"
+msgstr "Настройки VW"
+
+#: header.php:17
+msgid "http://gmpg.org/xfn/11"
+msgstr "http://gmpg.org/xfn/11"
+
+#: functions.php:113
+msgid "Appears on footer 4"
+msgstr "Появится в футере 4"
+
+#: functions.php:112
+msgid "Footer Navigation 4"
+msgstr "Навигация в подвале 4"
+
+#: functions.php:103
+msgid "Appears on footer 3"
+msgstr "Появится в футере 3"
+
+#: functions.php:102
+msgid "Footer Navigation 3"
+msgstr "Навигация в подвале 3"
+
+#: functions.php:93
+msgid "Appears on footer 2"
+msgstr "Появится в футере 4"
+
+#: functions.php:92
+msgid "Footer Navigation 2"
+msgstr "Навигация в подвале 2"
+
+#: functions.php:83
+msgid "Appears on footer 1"
+msgstr "Появится в футере 1"
+
+#: functions.php:82
+msgid "Footer Navigation 1"
+msgstr "Навигация в подвале 1"
+
+#: functions.php:72
+msgid "Sidebar 3"
+msgstr "Боковая панель 3"
+
+#: functions.php:63 functions.php:73
+msgid "Appears on page sidebar"
+msgstr "Появится на боковой панели страницы"
+
+#: functions.php:62
+msgid "Page Sidebar"
+msgstr "Боковая панель страницы"
+
+#: functions.php:53
+msgid "Appears on blog page sidebar"
+msgstr "Появится на боковой панели страницы блога"
+
+#: functions.php:52
+msgid "Blog Sidebar"
+msgstr "Боковая панель блога"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: archive.php:45 archive.php:81 archive.php:116 archive.php:151
+#: archive.php:188 archive.php:227 archive.php:263 image.php:40 image.php:73
+#: image.php:105 image.php:137 image.php:171 image.php:206 image.php:238
+#: index.php:45 index.php:78 index.php:110 index.php:142 index.php:176
+#: index.php:211 index.php:243 search.php:41 search.php:75 search.php:108
+#: search.php:141 search.php:176 search.php:213 search.php:247 single.php:40
+#: single.php:73 single.php:105 single.php:137 single.php:171 single.php:206
+#: single.php:238
+msgid "Page"
+msgstr "Страница"
+
+#: archive.php:44 archive.php:80 archive.php:115 archive.php:150
+#: archive.php:187 archive.php:226 archive.php:262 image.php:39 image.php:72
+#: image.php:104 image.php:136 image.php:170 image.php:205 image.php:237
+#: index.php:44 index.php:77 index.php:109 index.php:141 index.php:175
+#: index.php:210 index.php:242 search.php:40 search.php:74 search.php:107
+#: search.php:140 search.php:175 search.php:212 search.php:246 single.php:39
+#: single.php:72 single.php:104 single.php:136 single.php:170 single.php:205
+#: single.php:237
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: archive.php:43 archive.php:79 archive.php:114 archive.php:149
+#: archive.php:186 archive.php:225 archive.php:261 image.php:38 image.php:71
+#: image.php:103 image.php:135 image.php:169 image.php:204 image.php:236
+#: index.php:43 index.php:76 index.php:108 index.php:140 index.php:174
+#: index.php:209 index.php:241 search.php:39 search.php:73 search.php:106
+#: search.php:139 search.php:174 search.php:211 search.php:245 single.php:38
+#: single.php:71 single.php:103 single.php:135 single.php:169 single.php:204
+#: single.php:236
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: 404.php:17
+msgid "Return to the home page"
+msgstr "Вернуться на главную страницу"
+
+#: 404.php:15 no-results.php:22
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Не волнуйтесь, и это случилось с лучшими из нас."
+
+#: 404.php:14
+msgid "Looks like you have taken a wrong turn&hellip"
+msgstr "Похоже, вы пошли не туда & hellip"
+
+#: 404.php:13
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: 404.php:13
+msgid "404"
+msgstr "404"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: template-parts/header/topbar.php:24
+msgid "Mon - Sat 9:00 - 19:00 Sunday Closed"
+msgstr "Пн - Сб 9:00 - 19:00 Воскресенье Закрыто"
+
+#: template-parts/header/topbar.php:21
+msgid "support@123.com"
+msgstr "support@123.com"
+
+#: template-parts/header/topbar.php:18
+msgid "+00 123 456 7890"
+msgstr "+00 123 456 7890"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Искать"
+
+#: inc/customizer.php:260
+msgid "One Page Pro Theme"
+msgstr "One Page Pro тема"
+
+#: inc/customizer.php:159
+msgid "Select About Page"
+msgstr "Выберите страницу \"Про нас\""
+
+#: inc/customizer.php:143
+msgid "Select Category to display services"
+msgstr "Выберите рубрику для показа услуг"
+
+#: inc/customizer.php:111
+msgid "Slider image size (1500 x 590)"
+msgstr "Размер изображения слайдера (1500 x 590)"
+
+#: inc/customizer.php:80
+msgid "Add Timming"
+msgstr "Добавить время"
+
+#: inc/customizer.php:70
+msgid "Add Enail Address"
+msgstr "Добавьте емейл адресс"
+
+#: functions.php:199
+msgid "VW One Page WordPress Theme "
+msgstr "VW One Page WordPress тема"
+
+#: functions.php:123
+msgid "Appears on header"
+msgstr "Появиться в шапке"
+
+#: functions.php:122
+msgid "Social Widget"
+msgstr "Социальный виджет"
+
+#: footer.php:31
+msgid "Copyright 2018 -"
+msgstr "Авторское право 2018 -"
+
+#. Author URI of the plugin/theme
+msgid "https://www.vwthemes.com/"
+msgstr "https://www.vwthemes.com/"
+
+#. Author of the plugin/theme
+msgid "VW Themes"
+msgstr "VW Themes"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.vwthemes.com/themes/free-one-page-wordpress-theme/"
+msgstr "https://www.vwthemes.com/themes/free-one-page-wordpress-theme/"
